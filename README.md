@@ -1,79 +1,79 @@
 
 <div align="center">
 
-# ⚡ JA STORM
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080D19,50:7733CC,100:00D9FF&height=190&section=header&text=JA%20STORM&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=IT%20%E2%80%A2%20DevOps%20%E2%80%A2%20AI%20%E2%80%A2%20Game%20Development&descAlignY=60&descSize=17&animation=fadeIn" alt="Ja Storm neon header" />
 
-### `IT • DevOps • AI • Game Development`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1000&color=9B5CFF&center=true&vCenter=true&width=550&lines=Building+digital+worlds;Automating+the+boring+stuff;Exploring+AI-powered+systems;Turning+ideas+into+code" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=580&lines=Building+digital+worlds;Automating+the+boring+stuff;Exploring+AI-powered+systems;Turning+ideas+into+code" alt="Animated introduction" />
 
 <br>
 
-![DevOps](https://img.shields.io/badge/DevOps-10121B?style=for-the-badge&logo=docker&logoColor=00D9FF)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-10121B?style=for-the-badge&logo=googlegemini&logoColor=A855F7)
-![Game Dev](https://img.shields.io/badge/Game_Development-10121B?style=for-the-badge&logo=unrealengine&logoColor=00FFAA)
+![DevOps](https://img.shields.io/badge/DEVOPS-10121B?style=for-the-badge&logo=docker&logoColor=00D9FF)
+![AI](https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-10121B?style=for-the-badge&logo=googlegemini&logoColor=A855F7)
+![Game Dev](https://img.shields.io/badge/GAME_DEVELOPMENT-10121B?style=for-the-badge&logo=unrealengine&logoColor=00FFAA)
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-Hey! I'm **Ja Storm** — an IT enthusiast exploring the intersection of infrastructure, automation, artificial intelligence, and game development.
+Hey! I'm **Ja Storm**, also known as **PsihoPatStorm**.
 
-I enjoy building systems, solving complex problems, experimenting with emerging technologies, and creating interactive digital worlds.
+I explore the intersection of IT infrastructure, DevOps, artificial intelligence, and game development.
 
-> `Think. Build. Break. Fix. Improve. Repeat.`
+My interests range from systems engineering and automation to building interactive digital worlds and experimenting with intelligent NPC systems.
 
-### 🧠 What I'm Into
+> ⚡ Think. Build. Break. Fix. Improve. Repeat.
 
-```yaml
-name: Ja Storm
-alias: PsihoPatStorm
+## ⚙️ Focus Areas
 
-interests:
-  - IT Infrastructure
-  - DevOps & Automation
-  - Artificial Intelligence
-  - Game Development
-  - Systems Engineering
+| Area | Interests |
+|---|---|
+| 🖥️ IT Infrastructure | Systems, networking, servers and troubleshooting |
+| ⚙️ DevOps | Automation, tooling and workflows |
+| 🤖 Artificial Intelligence | AI integration and intelligent systems |
+| 🎮 Game Development | Gameplay, 3D worlds and NPC behavior |
 
-current_project: Paradise Lost District
-status: Building & Learning
-```
-
-### 🎮 Game Development
-
-**Paradise Lost District**
-
-An indie multiplayer open-world social RPG project.
-
-Focused on building an immersive world, evolving gameplay systems, experimenting with AI-driven characters, and bringing new ideas to life.
-
-[![Follow Development](https://img.shields.io/badge/Follow_Development-Telegram-10121B?style=for-the-badge&logo=telegram&logoColor=00D9FF)](https://t.me/ParadiseLostDistrictGame)
-
-### ⚙️ Technologies & Interests
+## 🎮 Featured Game Project
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-10121B?style=flat-square&logo=cplusplus&logoColor=9B5CFF)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-10121B?style=flat-square&logo=unrealengine&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/Git-10121B?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-10121B?style=flat-square&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/Linux-10121B?style=flat-square&logo=linux&logoColor=FCC624)
-![AI](https://img.shields.io/badge/AI_Systems-10121B?style=flat-square&logo=googlegemini&logoColor=A855F7)
+### 🌆 PARADISE LOST DISTRICT
 
-</div>
+**Multiplayer • Open World • Social RPG**
 
-### 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PsihoPatStorm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00D9FF&text_color=E6EDF3" width="440" alt="GitHub statistics" />
+An indie game project focused on immersive environments, social interaction, evolving gameplay systems, and AI-driven characters.
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PsihoPatStorm&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=00D9FF" width="440" alt="GitHub streak" />
+[![Follow Development](https://img.shields.io/badge/FOLLOW_DEVELOPMENT-TELEGRAM-10121B?style=for-the-badge&logo=telegram&logoColor=00D9FF)](https://t.me/ParadiseLostDistrictGame)
+
+</div>
+
+## 🛠️ Technologies & Interests
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++-10121B?style=for-the-badge&logo=cplusplus&logoColor=A855F7)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-10121B?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-10121B?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-10121B?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-10121B?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![AI](https://img.shields.io/badge/AI-10121B?style=for-the-badge&logo=googlegemini&logoColor=A855F7)
+
+</div>
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=PsihoPatStorm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00D9FF&text_color=E6EDF3" alt="GitHub stats" />
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsihoPatStorm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E6EDF3" alt="Top languages" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=PsihoPatStorm&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub streak" />
 
 </div>
 
@@ -81,13 +81,15 @@ Focused on building an immersive world, evolving gameplay systems, experimenting
 
 <div align="center">
 
-### 🌐 Connect
+## 🌐 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-PsihoPatStorm-10121B?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/PsihoPatStorm)
-[![Telegram](https://img.shields.io/badge/Paradise_Lost_District-10121B?style=for-the-badge&logo=telegram&logoColor=00D9FF)](https://t.me/ParadiseLostDistrictGame)
+[![GitHub](https://img.shields.io/badge/PsihoPatStorm-GitHub-10121B?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/PsihoPatStorm)
+[![Telegram](https://img.shields.io/badge/Game_Development-Telegram-10121B?style=for-the-badge&logo=telegram&logoColor=00D9FF)](https://t.me/ParadiseLostDistrictGame)
 
 <br>
 
-**`Code is temporary. Ideas are limitless.`**
+`Code is temporary. Ideas are limitless.`
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7733CC,100:080D19&height=100&section=footer" alt="Neon footer" />
 
 </div>
