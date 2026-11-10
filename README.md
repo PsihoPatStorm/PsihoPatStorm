@@ -63,8 +63,6 @@ An indie game project focused on immersive environments, social interaction, evo
 
 </div>
 
-## 📊 GitHub Activity
-
 
 ## 📊 GitHub Activity
 
@@ -82,17 +80,40 @@ An indie game project focused on immersive environments, social interaction, evo
 
 ---
 
+
+---
+
 <div align="center">
 
-## 🌐 Connect
+<h2>🌐 Connect</h2>
 
-[![GitHub](https://img.shields.io/badge/PsihoPatStorm-GitHub-10121B?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/PsihoPatStorm)
-[![Telegram](https://img.shields.io/badge/Game_Development-Telegram-10121B?style=for-the-badge&logo=telegram&logoColor=00D9FF)](https://t.me/ParadiseLostDistrictGame)
+<p>
+  <a href="https://github.com/PsihoPatStorm">
+    <img src="https://img.shields.io/badge/GitHub-PsihoPatStorm-10121B?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF" alt="GitHub" />
+  </a>
+  <a href="https://t.me/ParadiseLostDistrictGame">
+    <img src="https://img.shields.io/badge/Telegram-Paradise_Lost_District-10121B?style=for-the-badge&amp;logo=telegram&amp;logoColor=00D9FF" alt="Telegram" />
+  </a>
+</p>
 
-<br>
+<h3>🌍 International Community</h3>
 
-`Code is temporary. Ideas are limitless.`
+<p>
+  Our development channel is primarily in Russian,
+  but international developers and players are welcome.
+  English highlights are being introduced.
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7733CC,100:080D19&height=100&section=footer" alt="Neon footer" />
+<p>
+  🎮 Follow the development of
+  <strong>Paradise Lost District</strong> on Telegram!
+</p>
+
+<p>
+  <code>Code is temporary. Ideas are limitless.</code>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00D9FF,50:7733CC,100:080D19&amp;height=100&amp;section=footer" alt="Neon footer" />
 
 </div>
+
