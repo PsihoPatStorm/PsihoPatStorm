@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080D19,50:7733CC,100:00D9FF&height=190&section=header&text=JA%20STORM&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=IT%20%E2%80%A2%20DevOps%20%E2%80%A2%20AI%20%E2%80%A2%20Game%20Development&descAlignY=60&descSize=17&animation=fadeIn" alt="Ja Storm neon header" />
+<img src="./ja-storm-neon-banner.gif" width="100%" alt="Ja Storm Neon Banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=580&lines=Building+digital+worlds;Automating+the+boring+stuff;Exploring+AI-powered+systems;Turning+ideas+into+code" alt="Animated introduction" />
 
