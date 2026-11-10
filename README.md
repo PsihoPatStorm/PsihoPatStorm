@@ -65,15 +65,18 @@ An indie game project focused on immersive environments, social interaction, evo
 
 ## 📊 GitHub Activity
 
+
+## 📊 GitHub Activity
+
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=PsihoPatStorm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00D9FF&text_color=E6EDF3" alt="GitHub stats" />
+<img height="175" src="https://github-stats-extended.vercel.app/api?username=PsihoPatStorm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00D9FF&text_color=E6EDF3" alt="GitHub Stats" />
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsihoPatStorm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E6EDF3" alt="Top languages" />
+<img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=PsihoPatStorm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E6EDF3" alt="Top Languages" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=PsihoPatStorm&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=PsihoPatStorm&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
 
 </div>
 
